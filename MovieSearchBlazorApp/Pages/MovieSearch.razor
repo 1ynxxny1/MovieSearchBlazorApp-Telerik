@@ -1,0 +1,84 @@
+﻿@page "/search"
+@using MovieSearchBlazorApp.Models
+@using MovieSearchBlazorApp.Services
+@inject MovieService MovieService
+@inject NavigationManager NavigationManager
+
+<h1 class="text-center mb-4">Movie Search</h1>
+<div class="row mb-5 justify-content-center">
+    <div class="col-md-6">
+        <EditForm Model="@searchModel" OnValidSubmit="SearchMovies">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+
+            <div class="input-group">
+                <InputText class="form-control"
+                           @bind-Value="searchModel.Query"
+                           placeholder="Enter movie title"
+                           aria-label="Search" />
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+
+@if (movies != null && movies.Length > 0)
+{
+    <TelerikGrid Data="@movies" Pageable="true" Sortable="true" FilterMode="Telerik.Blazor.GridFilterMode.FilterRow">
+        <GridColumns>
+            <GridColumn Field="Title" Title="Title" />
+            <GridColumn Field="Year" Title="Year" />
+            <GridColumn Field="Type" Title="Type" />
+            <GridColumn Field="Poster" Title="Poster" Filterable="false" Template="@((item) => {
+                var movie = (MovieSearchResult)item;
+                return (RenderFragment)(builder => {
+                    builder.OpenElement(0, "img");
+                    builder.AddAttribute(1, "src", movie.Poster);
+                    builder.AddAttribute(2, "alt", "Poster");
+                    builder.AddAttribute(3, "style", "width: 50px; height: auto;");
+                    builder.CloseElement();
+                });
+            })" />
+            <GridCommandColumn Width="120px">
+                <GridCommandButton Command="Edit" OnClick="@ViewMovieDetails">
+                    <span class="k-icon k-i-edit"></span> View Details
+                </GridCommandButton>
+            </GridCommandColumn>
+        </GridColumns>
+    </TelerikGrid>
+}
+else if (isSearching)
+{
+    <p>Loading...</p>
+}
+
+@code {
+    private SearchModel searchModel = new SearchModel();
+    private MovieSearchResult[] movies;
+    private bool isSearching;
+
+    private async Task SearchMovies()
+    {
+        if (!string.IsNullOrWhiteSpace(searchModel.Query))
+        {
+            isSearching = true;
+            movies = await MovieService.SearchMoviesAsync(searchModel.Query);
+            isSearching = false;
+        }
+    }
+
+    private void ViewMovieDetails(GridCommandEventArgs args)
+    {
+        if (args.Item is MovieSearchResult movie)
+        {
+            NavigationManager.NavigateTo($"/movie/{movie.ImdbID}");
+        }
+    }
+
+    public class SearchModel
+    {
+        public string Query { get; set; }
+    }
+}
+

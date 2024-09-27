@@ -1,0 +1,65 @@
+﻿@page "/movie/{ImdbID}"
+@using MovieSearchBlazorApp.Models
+@using MovieSearchBlazorApp.Services
+@inject MovieService MovieService
+
+<div class="container">
+    <h1 class="text-center">@(movieDetail != null ? movieDetail.Title : "Loading...")</h1>
+    <br>
+    @if (movieDetail != null)
+    {
+        <div class="row">
+            <div class="col-md-4">
+                <img src="@movieDetail.Poster" alt="@movieDetail.Title" class="img-fluid" />
+            </div>
+            <div class="col-md-8">
+                <p><strong>Year:</strong> @movieDetail.Year</p>
+                <p><strong>Rated:</strong> @movieDetail.Rated</p>
+                <p><strong>Released:</strong> @movieDetail.Released</p>
+                <p><strong>Runtime:</strong> @movieDetail.Runtime</p>
+                <p><strong>Genre:</strong> @movieDetail.Genre</p>
+                <p><strong>Director:</strong> @movieDetail.Director</p>
+                <p><strong>Writer:</strong> @movieDetail.Writer</p>
+                <p><strong>Actors:</strong> @movieDetail.Actors</p>
+                <p><strong>Plot:</strong> @movieDetail.Plot</p>
+                <p><strong>Language:</strong> @movieDetail.Language</p>
+                <p><strong>Country:</strong> @movieDetail.Country</p>
+                <p><strong>Awards:</strong> @movieDetail.Awards</p>
+                <p><strong>Box Office:</strong> @movieDetail.BoxOffice</p>
+                <p><strong>Production:</strong> @movieDetail.Production</p>
+                <p><strong>Website:</strong> @movieDetail.Website</p>
+
+                <h4>Ratings</h4>
+                <ul>
+                    @foreach (var rating in movieDetail.Ratings)
+                    {
+                        <li>@rating.Source: @rating.Value</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Loading movie details...</p>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public string ImdbID { get; set; }
+
+    private MovieDetail movieDetail;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            movieDetail = await MovieService.GetMovieDetailAsync(ImdbID);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error fetching movie details: {ex.Message}");
+        }
+    }
+}

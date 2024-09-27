@@ -1,0 +1,104 @@
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.staticwebassets.runtime.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.exe
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.deps.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.runtimeconfig.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.pdb
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.AssemblyInfoInputs.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.AssemblyInfo.cs
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.RazorAssemblyInfo.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.RazorAssemblyInfo.cs
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.MovieSearchBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\bundle\MovieSearchBlazorApp.styles.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\projectbundle\MovieSearchBlazorApp.bundle.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\refint\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.pdb
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.genruntimeconfig.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp\MovieSearchBlazorApp\obj\Debug\net6.0\ref\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.staticwebassets.runtime.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.exe
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.deps.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.runtimeconfig.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.pdb
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.AssemblyInfoInputs.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.AssemblyInfo.cs
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.RazorAssemblyInfo.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.RazorAssemblyInfo.cs
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.MovieSearchBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\bundle\MovieSearchBlazorApp.styles.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\projectbundle\MovieSearchBlazorApp.bundle.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\refint\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.pdb
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.genruntimeconfig.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp - Copy\MovieSearchBlazorApp\obj\Debug\net6.0\ref\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\appsettings.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.staticwebassets.runtime.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.exe
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.deps.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.runtimeconfig.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\MovieSearchBlazorApp.pdb
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.DataSource.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.FontIcons.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.Pivot.Core.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.Pivot.DataProviders.Xmla.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.Recurrence.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.SvgIcons.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.Blazor.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\bin\Debug\net6.0\Telerik.Zip.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.csproj.AssemblyReference.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.AssemblyInfoInputs.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.AssemblyInfo.cs
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.RazorAssemblyInfo.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.RazorAssemblyInfo.cs
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.MovieSearchBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieSearchBlazorApp.props
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\bundle\MovieSearchBlazorApp.styles.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\scopedcss\projectbundle\MovieSearchBlazorApp.bundle.scp.css
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSea.5A7EBEA5.Up2Date
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\refint\MovieSearchBlazorApp.dll
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.pdb
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\MovieSearchBlazorApp.genruntimeconfig.cache
+C:\Users\dea\source\repos\MovieSearchBlazorApp (1)\MovieSearchBlazorApp\obj\Debug\net6.0\ref\MovieSearchBlazorApp.dll

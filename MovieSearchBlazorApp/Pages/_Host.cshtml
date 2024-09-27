@@ -1,0 +1,21 @@
+﻿@page "/"
+@namespace MovieSearchBlazorApp.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://blazor.cdn.telerik.com/blazor/6.2.0/kendo-theme-default/swatches/default-ocean-blue.css" />
+    <script src="https://blazor.cdn.telerik.com/blazor/6.2.0/telerik-blazor.min.js"></script>
+</head>
+<body>
+    <app>
+        <component type="typeof(App)" render-mode="ServerPrerendered" />
+    </app>
+</body>
+</html>
+
